@@ -1,4 +1,4 @@
-# E-BazaarShopping Management System 
+# E-Bazaar: Shopping Management System 
 
 Used C++: Its an application which exploits the concepts of object oriented programming such as inheritance and polymorphism by defining different relationships for managing retail shops etc.
 It has been divided into many pages and subprograms to allow the user to understand things more easily.
