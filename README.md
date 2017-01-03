@@ -1,7 +1,6 @@
-# E-Bazaar
+# E-BazaarShopping Management System 
 
-The primary features of this project is high accuracy, design flexibility and easy navigation. 
-This software highlights major concepts of object oriented programming.
+Used C++: Its an application which exploits the concepts of object oriented programming such as inheritance and polymorphism by defining different relationships for managing retail shops etc.
 It has been divided into many pages and subprograms to allow the user to understand things more easily.
 Some of the features included are:-
  EASY TO UNDERSTAND LANGUAGE
